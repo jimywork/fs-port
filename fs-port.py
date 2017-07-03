@@ -6,6 +6,9 @@ import sys
 import subprocess
 from optparse import OptionParser
 
+__author__ = "Rodrigo Lp (Apoc), SEU_NOME/NICK"
+__version__ = "1.0.0"
+__email__ = "contato@fsocietybrasil.org"
 
 subprocess.call('clear', shell=True)
 
